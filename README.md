@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ibocage1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/isaac-bocage/](https://www.linkedin.com/in/isaac-bocage/)
-
 - ⚡ Fun fact **I used to play competitive Smash Bros.**
 
 <h3 align="left">Connect with me:</h3>
