@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
 - 🔭 I’m currently working on [Svelvet](Svelvet.io)
